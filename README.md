@@ -155,16 +155,16 @@
 |:--|:------------|
 | Python | Numpy, Pandas,Spark ,Matplotlib, Seaborn, Plotly, Scikit-Learn, pickle, Keras, Open-cv, Tensorflow, Pytorch |
 | Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyper parameter tunning  |
-| Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, LeNET, AlexNet, VGG, Resnet, InceptionNet |
+| Deep Learning | ANN, CNN, RNN |
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
-| Natural Language Processing | Generative AI, Encoder-Decoder, Self Attention, Transformer, Transfer Learning models, Large Language Models |
-| Reinforcement Learning | VPG, PPO , TRPO, DDPG , Q-Learning |
+| Natural Language Processing | 
+
 ## &#x1f4c8; GitHub Stats
 
 <hr>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vijethmoudgalya&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sarika&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
