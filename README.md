@@ -1,6 +1,3 @@
-
-<h1 align = "center">Hello there! <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px"></h1> 
-
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=It's+Sarika!;I'm+a+Data+Scientist;love+to+Play+with+DATA)](https://git.io/typing-svg)</h1> 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
@@ -13,9 +10,6 @@
       alt="c"/>
   </a>
 
-  <a target="_blank"> 
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
-      alt="C"/> 
   </a>
 <!--   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
@@ -159,13 +153,4 @@
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
 | Natural Language Processing | 
 
-## &#x1f4c8; GitHub Stats
-
-<hr>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sarika&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
 
